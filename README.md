@@ -65,4 +65,4 @@ done
 
 Checking these fields for one package by hand with curl is fine. Pulling maintainer counts, publish dates and version history for an entire `package.json`/`requirements.txt` dependency list in one pass is what the [Package Registry Scraper](https://apify.com/ponderable_hydrometer/package-registry-scraper) actor on Apify does.
 
-📄 The story that led here — checking what happened to the maintainer list of ten packages hit by last September's npm phishing attack, a year on: **[npm Will Tell You Who Maintains a Package. It Won't Tell You Why That Changed.](https://dev.to/ronin13/npm-will-tell-you-who-maintains-a-package-it-wont-tell-you-why-that-changed)**
+📄 The story that led here — checking what happened to the maintainer list of ten packages hit by last September's npm phishing attack, a year on: **[npm Will Tell You Who Maintains a Package. It Won't Tell You Why That Changed.](https://dev.to/ronin13/npm-will-tell-you-who-maintains-a-package-it-wont-tell-you-why-that-changed-1562)**
